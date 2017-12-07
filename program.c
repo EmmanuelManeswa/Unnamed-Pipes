@@ -7,8 +7,6 @@
 #include<sys/stat.h>
 #include<errno.h>
 #include<string.h>
-#include<pthread.h>
-#include<bits/pthreadtypes.h>
 
 #define READ_END 0
 #define WRITE_END 1
